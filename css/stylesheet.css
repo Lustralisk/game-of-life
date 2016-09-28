@@ -1,0 +1,96 @@
+body {
+    font-family: arial, sans-serif;
+    font-size: 100%;
+}
+
+.text {
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    font-size: 3.2vw;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.text-author {
+    position: absolute;
+    top: 28%;
+    left: 20%;
+    font-size: 2.1vw;
+    cursor: pointer;
+}
+
+.button {
+    position: absolute;
+    background-image: url(../media/button.png);
+    background-size: 100% 100%;
+    height: 20%;
+    width: 20%;
+    cursor: pointer;
+}
+
+.button:hover {
+    color: #999;
+}
+
+.author {
+    position: absolute;
+    background-image: url(../media/author.png);
+    background-size: 100% 100%;
+    height: 12%;
+    width: 16%;
+    cursor: pointer;
+}
+
+.author:hover {
+    color: #999;
+}
+
+.back {
+    position: absolute;
+    background-image: url(../media/back.png);
+    background-size: 100% 100%;
+    height: 11%;
+    width: 5%;
+    left: 85%;
+    top: 75%;
+    cursor: pointer;
+    display: none;
+}
+
+.back:hover{
+    opacity: 0.6;
+}
+
+.pause {
+    position: absolute;
+    background-image: url(../media/pause.png);
+    background-size: 100% 100%;
+    height: 11%;
+    width: 7%;
+    left: 85%;
+    top: 45%;
+    cursor: pointer;
+}
+
+.pause:hover{
+    opacity: 0.6;
+}
+
+.map {
+    position: absolute;
+    height: 95%;
+    width: 80%;
+    top: 2%;
+    left: 1%;
+    border: 5px solid;
+}
+
+.map-cell {
+    position: absolute;
+    border: 0px solid;
+}

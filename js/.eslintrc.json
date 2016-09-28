@@ -1,0 +1,7 @@
+{
+  "extends": "google",
+  "installedESLint": true,
+  "env": {
+    "jquery": true
+  }
+}
