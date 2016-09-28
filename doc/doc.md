@@ -281,4 +281,6 @@ I played my game after finish the coding part myself, and find something interes
     
     *What's more, this structure can also copy itself like bacteria.*
     
+For more this kind of attempts, checkout **custom mode** and play the **funny** section. Don't forget to try to click on the board to see changes.
+
 I believe there are far more kinds of these interesting structures in this world known as cellular automata, waited to be discovered. And thanks for reading this documentation.
